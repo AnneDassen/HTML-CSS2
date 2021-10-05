@@ -1,4 +1,4 @@
-#li1 a{
+li a{
   float: left;
   display: block;
   color: black;
@@ -14,11 +14,11 @@ ul {
   background-color: #3A8F33;
 }
 
-#li1{
+li{
   float: left;
 }
 
-#li1 a:hover {
+li a:hover {
   background-color: #64C25C;
 }
 
@@ -44,8 +44,4 @@ p{
   border-color: #3A8F33;
   border-width: 10px;
   margin: 5px;
-}
-
-#li2{
-
 }
