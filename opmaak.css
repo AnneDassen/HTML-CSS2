@@ -1,5 +1,9 @@
 body{
   background-color: #EDEDED;
+  font-family: Calibri;
+}
+h1,h2,h3,h4{
+  font-family: Impact;
 }
 li a{
   float: left;
@@ -10,6 +14,7 @@ li a{
 
 }
 ul {
+  font-family: Impact;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -21,7 +26,7 @@ li{
   float: left;
 }
 
-li a:hover {
+li a:hover{
   background-color: #64C25C;
 }
 
@@ -33,14 +38,14 @@ p{
   background-color: #64C25C;
   border-style: solid;
   border-color: #3A8F33;
-  border-width: 10px;
+  border-width: 8px;
   margin: 5px;
   padding: 5px;
 }
 
 img{
-  height: 200px;
-  width: 200px;
+  height: 185px;
+  width: 185px;
   border-style: solid;
   border-color: #3A8F33;
   border-width: 5px;
@@ -66,6 +71,6 @@ iframe{
   background-color: #64C25C;
   border-style: solid;
   border-color: #3A8F33;
-  border-width: 10px;
+  border-width: 8px;
   margin: 5px;
 }
