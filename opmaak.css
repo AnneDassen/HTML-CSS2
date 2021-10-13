@@ -49,11 +49,13 @@ img{
   right: 13px
 }
 iframe{
+  width: 500px;
+  height: 350px;
   border-style: solid;
   border-color: #3A8F33;
   border-width: 9px;
   position: absolute;
-  top: 85px;
+  top: 90px;
   right: 13px;
 }
 
